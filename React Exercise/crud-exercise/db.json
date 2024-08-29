@@ -1,0 +1,12 @@
+{
+  "book": [
+    {
+      "id": "d8e0",
+      "titulo": "Harry Potter and the Philosopher's Stone",
+      "autor": "J.K. Rowling",
+      "anoDePublicacao": "2000",
+      "genero": "Ficção",
+      "paginas": "264"
+    }
+  ]
+}
