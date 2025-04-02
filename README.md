@@ -1,4 +1,4 @@
-# React
+# React Exercises
 
 Developing projects in React with TypeScript is essential for building dynamic, scalable, and maintainable web applications. React, a popular JavaScript library, allows for the creation of reusable UI components that can manage their own state, making it easier to build complex user interfaces. TypeScript, a superset of JavaScript, adds static typing to the language, providing an additional layer of type safety and error-checking during development.
 
